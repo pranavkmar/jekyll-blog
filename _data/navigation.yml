@@ -1,4 +1,4 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
@@ -54,8 +54,6 @@
   url: "/documentation/"
   side: left
   dropdown:
-  - title: Documentation
-    url: "/documentation/"
   - title: "Changelog"
     url: "/changelog/"
   - title: "Roadmap"
@@ -65,8 +63,6 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: Blog
-    url: "/blog/"
   - title: "Blog Archive"
     url: "/blog/archive/"
 
