@@ -31,7 +31,7 @@ OpenShot Link: http://www.openshot.org
 </a>
 <h3><a href="{{ site.url }}/google-to-build-asias-first-campus-in-hyderabad/">Google to build Asia’s first campus in Hyderabad</a></h3>
 </li>
-	<li class="sow-carousel-item"><a style="background-image: url('{{ site.url }}/uploads/2015/05/o-BUSINESS-TECHNOLOGY-facebook-272x182.jpg');" href="{{ site.url }}/top-9-trending-technologies/">
+	<li ><a style="background-image: url('{{ site.url }}/uploads/2015/05/o-BUSINESS-TECHNOLOGY-facebook-272x182.jpg');" href="{{ site.url }}/top-9-trending-technologies/">
 
 </a>
 <h3><a href="{{ site.url }}/top-9-trending-technologies/">Top 9 trending Technologies</a></h3>
@@ -41,15 +41,14 @@ OpenShot Link: http://www.openshot.org
 </a>
 <h3><a href="{{ site.url }}/why-windows-10-is-gruesome/">Why Windows 10 is gruesome</a></h3>
 </li>
-	<li class="sow-carousel-item"><a style="background-image: url('{{ site.url }}/uploads/2015/05/performance-of-your-computer-272x182.jpg');" href="{{ site.url }}/how-to-make-pc-faster-on-windows/">
+	<a style="background-image: url('{{ site.url }}/uploads/2015/05/performance-of-your-computer-272x182.jpg');" href="{{ site.url }}/how-to-make-pc-faster-on-windows/">
 
 </a>
 <h3><a href="{{ site.url }}/how-to-make-pc-faster-on-windows/">How to make PC faster on windows</a></h3>
 </li>
-	<li class="sow-carousel-item"><a style="background-image: url('{{ site.url }}/uploads/2015/05/3008084-poster-1920-why-messenging-could-be-mobiles-killer-272x182.jpg');" href="{{ site.url }}/whatsapp/">
+	<li ><a style="background-image: url('{{ site.url }}/uploads/2015/05/3008084-poster-1920-why-messenging-could-be-mobiles-killer-272x182.jpg');" href="{{ site.url }}/whatsapp/">
 
 </a>
 <h3><a href="{{ site.url }}/whatsapp/">Whatsapp</a></h3>
 </li>
 </ul>
-<h3 class="widget-title">Subscribe Now..!!</h3>
