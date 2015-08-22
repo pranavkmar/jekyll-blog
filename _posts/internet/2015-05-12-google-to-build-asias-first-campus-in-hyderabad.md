@@ -32,19 +32,11 @@ and it would be Asia's first campus with 2 Million Sq ft with an investment of R
 &nbsp;
 
 &nbsp;
-<h3 class="widget-title">Recent</h3>
-<ul class="sow-carousel-items">
-	<li class="sow-carousel-item">
-<h3><a href="{{ site.url }}/openshot-on-linux/">OpenShot on Linux</a></h3>
-</li>
-	<li class="sow-carousel-item">
-<h3><a href="{{ site.url }}/top-9-trending-technologies/">Top 9 trending Technologies</a></h3>
-</li>
-	<li class="sow-carousel-item">
-<h3><a href="{{ site.url }}/how-to-make-pc-faster-on-windows/">How to make PC faster on windows</a></h3>
-</li>
-	<li class="sow-carousel-item">
-<h3><a href="{{ site.url }}/why-windows-10-is-gruesome/">Why Windows 10 is gruesome</a></h3>
-</li>
+<h3 class="widget-title">Recent Posts</h3>
+<ul>
+	<li><a href="{{ site.url }}/skype-on-web-browsers/">Skype on Web browsers</a></li>
+	<li><a href="{{ site.url }}/project-soli-in-reality/">Project Soli in reality</a></li>
+	<li><a href="{{ site.url }}/android-m-6-0/">Android M 6.0 preview arrived</a></li>
+	<li><a href="{{ site.url }}/telanganas-wi-fi-got-extended-to-secbad/">Telangana’s Wi-Fi got extended to Sec’bad</a></li>
+	<li><a href="{{ site.url }}/android-runtime-environment/">Android Runtime environment</a></li>
 </ul>
-<h3 class="widget-title">Subscribe Us</h3>
