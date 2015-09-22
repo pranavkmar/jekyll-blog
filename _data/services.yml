@@ -5,6 +5,11 @@
   class: "services-contact"
   title: "Contact"
 
+- name: "Privacy"
+  url: "/policy/"
+  #class: "services-contact"
+  title: "Privacy Policy"
+  
 - name: "RSS"
   url: "/feed.xml"
   class: "rss-link"
