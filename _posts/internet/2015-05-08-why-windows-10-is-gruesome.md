@@ -7,7 +7,10 @@ comments: true
 sidebar: right
 tags: [Applications, fail, Internet, Social, win10, windows, windows 10, windows failure, windows performance, windows10]
 permalink: /why-windows-10-is-gruesome
-categories: [Applications, Windows ]
+categories: [ Windows ]
+image:
+    thumb:  windows_thumb.jpg
+    homepage: homepage_typewriter.jpg
 ---
 Even the latest version of Windows has got new features like:
 The familiar Start Menu,Start Screen :A place to pin your favorite apps,

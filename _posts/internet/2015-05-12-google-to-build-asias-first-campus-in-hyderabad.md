@@ -7,6 +7,10 @@ comments: true
 sidebar: right
 permalink: /google-to-build-asias-first-campus-in-hyderabad
 categories: [ Social]
+tags: [internet,google]
+image:
+    thumb:  unsplash_6_bus_thumb.jpg
+    homepage: homepage_typewriter.jpg
 ---
 Google have confirmed flee to Hyderabad with its biggest campus out of US and with an investment of Rs 1,000 crore, according to Telangana IT minister K.T. Rama Rao at Google HQ in Mountain View.
 

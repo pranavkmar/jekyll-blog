@@ -8,6 +8,9 @@ sidebar: right
 permalink: /skype-on-web-browsers
 categories: [Applications]
 tags: [Applications, conversation, Internet, skype, Social, video call, voice call, web plugin]
+image:
+    thumb:  application_thumb.png
+    homepage: homepage_typewriter.jpg
 ---
 Officially,Skype have announced that it is now available for web-browsers via a blogspot . Users can access Skype via web through the link: <a href="http://www.skype.com/en/">http://www.skype.com</a> or <a href="http://login.skype.com/login?client_id=578134&amp;redirect_uri=https%3A%2F%2Fweb.skype.com">web.skype.com</a>.
 

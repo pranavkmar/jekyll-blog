@@ -8,6 +8,9 @@ permalink: /top-9-trending-technologies
 sidebar: right
 categories: [Career]
 tags: [Technology,Bigdata,hadoop]
+image:
+    thumb:  career_thumb.jpg
+    homepage: homepage_typewriter.jpg
 ---
 <h1><strong>Platform as a Service</strong></h1>
 <b>Platform as a service</b> (<b>PaaS</b>) is a category of cloud computing services that provides a platform allowing customers to develop, run and manage Web applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.

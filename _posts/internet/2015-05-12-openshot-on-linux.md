@@ -4,10 +4,15 @@ title: OpenShot on Linux
 date: 2015-05-12 19:51
 author: Pranav Kumar
 comments: true
-categories: [ Applications, Linux]
+categories: [Linux]
+tags: [Applications]
 permalink: /openshot-on-linux
 tags:
     - post format
+
+image:
+    thumb:  linux_thumb.jpg
+    homepage: homepage_typewriter.jpg
 ---
 Linux is a version well known for server back-end and know it have come upon to the user standard that is easy to adapt
 Some Video professionals may avoid linux because of lack of GUI based Video editors

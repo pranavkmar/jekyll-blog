@@ -5,12 +5,15 @@ date: 2015-06-11 19:14
 author: Pranav Kumar
 comments: true
 permalink: /project-soli-in-reality
-categories: [Applications, ATAP, computing, Technology, Google ]
+categories: [Applications]
+tags: [ATAP, computing, Technology, Google]
 sidebar: right
 image:
     title: "unsplash_1.jpg"
     caption: Unsplash.com
     caption_url: http://unsplash.com
+    thumb:  unsplash_4-303x182.jpg
+
 ---
 We are glad to inform about the latest innovations that are to be occurring in the nearest future so today, a project by google which is code named as "Project soli".
 

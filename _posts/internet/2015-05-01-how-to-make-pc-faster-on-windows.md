@@ -4,9 +4,12 @@ title: How to make PC faster on windows
 date: 2015-05-01 17:02
 author: Pranav Kumar
 comments: true
-categories: [Applications,Windows]
+categories: [Windows]
 tags: [android updated, Applications, computer, enhance pc, faster, first, windows, windows performance]
 permalink: /how-to-make-pc-faster-on-windows
+image:
+    thumb:  windows_thumb.jpg
+    homepage: homepage_typewriter.jpg
 ---
 <h2>Steps to make PC faster</h2>
 <p>1.Maintain a single operating System.</p>

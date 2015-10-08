@@ -6,6 +6,9 @@ author: Pranav Kumar
 comments: true
 categories: [ Social ]
 permalink: /telanganas-wi-fi-got-extended-to-secbad
+image:
+    thumb:  unsplash_6_bus_thumb.jpg
+    homepage: homepage_typewriter.jpg
 ---
 Today Union Minister Sri Bandaru Dattatreya &amp; IT Minister KTR launched WiFi service at Secunderabad Railway Station.
 
