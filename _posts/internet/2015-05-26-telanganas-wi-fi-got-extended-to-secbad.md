@@ -4,6 +4,7 @@ title: Telangana's Wi-Fi got extended to Sec'bad
 date: 2015-05-26 20:14
 author: Pranav Kumar
 comments: true
+sidebar: right
 categories: [ Social ]
 permalink: /telanganas-wi-fi-got-extended-to-secbad
 image:
@@ -31,22 +32,22 @@ Lets hope a bright fortune of Telangana and let it shine all-over world.
 &nbsp;
 
 &nbsp;
-<h3 class="widget-title">Popular Posts</h3>
-<ul class="sow-carousel-items">
-	<li class="sow-carousel-item">
-<h3><a href="{{ site.url }}/android-runtime-environment/">Android Runtime environment</a></h3>
+<h3>Popular Posts</h3>
+<ul >
+	<li >
+<h6><a href="{{ site.url }}/android-runtime-environment/">Android Runtime environment</a></h6>
 </li>
-	<li class="sow-carousel-item">
-<h3><a href="{{ site.url }}/google-to-build-asias-first-campus-in-hyderabad/">Google to build Asia’s first campus in Hyderabad</a></h3>
+	<li >
+<h6><a href="{{ site.url }}/google-to-build-asias-first-campus-in-hyderabad/">Google to build Asia’s first campus in Hyderabad</a></h6>
 </li>
-	<li class="sow-carousel-item">
-<h3><a href="{{ site.url }}/why-windows-10-is-gruesome/">Why Windows 10 is gruesome</a></h3>
+	<li >
+<h6><a href="{{ site.url }}/why-windows-10-is-gruesome/">Why Windows 10 is gruesome</a></h6>
 </li>
-	<li class="sow-carousel-item">
-<h3><a href="{{ site.url }}/how-to-make-pc-faster-on-windows/">How to make PC faster on windows</a></h3>
+	<li >
+<h6><a href="{{ site.url }}/how-to-make-pc-faster-on-windows/">How to make PC faster on windows</a></h6>
 </li>
-	<li class="sow-carousel-item">
-<h3><a href="{{ site.url }}/top-9-trending-technologies/">Top 9 trending Technologies</a></h3>
+	<li >
+<h6><a href="{{ site.url }}/top-9-trending-technologies/">Top 9 trending Technologies</a></h6>
 </li>
 </ul>
-<h3 class="widget-title">Subscribe Now….</h3>
+

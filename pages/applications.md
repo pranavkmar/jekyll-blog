@@ -1,0 +1,21 @@
+---
+layout: page
+show_meta: false
+title: "Applications!"
+subheadline: "Layouts of Feeling Responsive"
+header:
+   image_fullwidth: "header_unsplash_5.jpg"
+permalink: "/applications/"
+sidebar: right
+---
+<ul>
+    {% for post in site.categories.applications %}
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+<div class="row">
+	<div class="medium-8 columns t30">
+		{% include pagination.html %}
+	</div><!-- /.medium-7.columns -->
+
+</div>

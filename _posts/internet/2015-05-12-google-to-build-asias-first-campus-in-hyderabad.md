@@ -18,25 +18,25 @@ The MoU was also signed by David Radcliffe, Sr VP of Google &amp; IT Secy Jayesh
 
 &nbsp;
 
-<img class=" size-full wp-image-236 aligncenter" src="{{ site.url }}/uploads/2015/05/CEwMRZZUMAAFdmH.jpg" alt="CEwMRZZUMAAFdmH" width="599" height="387" />
+<img  src="{{ site.url }}/uploads/2015/05/CEwMRZZUMAAFdmH.jpg" alt="CEwMRZZUMAAFdmH" width="599" height="387" />
 
 &nbsp;
 
 K.T.Rama Rao have tweeted in three phases,mentioning that a MoU have inked to  build google's largest campus(outside US)
 and it would be Asia's first campus with 2 Million Sq ft with an investment of Rs. 1000 Crore having a great impact of doubling the employee size to 13000 from 6500.
 
-<img class=" size-full wp-image-237 aligncenter" src="{{ site.url }}/uploads/2015/05/Screenshot-from-2015-05-12-231730.png" alt="Screenshot from 2015-05-12 23:17:30" width="502" height="602" />
+<img src="{{ site.url }}/uploads/2015/05/Screenshot-from-2015-05-12-231730.png" alt="Screenshot from 2015-05-12 23:17:30" width="502" height="602" />
 
 &nbsp;
 
 "Hyderabad will be the first city in India to have Google Street view",he added via tweet.
 
-<img class="  wp-image-238 aligncenter" src="{{ site.url }}/uploads/2015/05/Screenshot-from-2015-05-12-231138.png" alt="Screenshot from 2015-05-12 23:11:38" width="522" height="283" />
+<img src="{{ site.url }}/uploads/2015/05/Screenshot-from-2015-05-12-231138.png" alt="Screenshot from 2015-05-12 23:11:38" width="522" height="283" />
 
 &nbsp;
 
 &nbsp;
-<h3 class="widget-title">Recent Posts</h3>
+<h5 ">Recent Posts</h5>
 <ul>
 	<li><a href="{{ site.url }}/skype-on-web-browsers/">Skype on Web browsers</a></li>
 	<li><a href="{{ site.url }}/project-soli-in-reality/">Project Soli in reality</a></li>
